@@ -4,7 +4,7 @@
 
 /* Header */
 .header {
-    background-image: url(/images/banner/banner2.png);
+    background-image: url(banner2.png);
     background-repeat: no-repeat;
     height: 800px;
     display: flex;
